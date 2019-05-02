@@ -7,6 +7,7 @@ John Margis
 
 ##How to Execute:
 To sign:
+
 ```python signer.py privKey.pem signature.sig input.txt sign```
 
 privKay.pem = private key
