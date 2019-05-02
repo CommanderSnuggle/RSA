@@ -1,8 +1,13 @@
 ##Group Members : 
-Anette Ulrichsen 
-Brandon Nguyen 
-Farid Aalam 
-Georden Grabuskie 
+
+Anette Ulrichsen
+
+Brandon Nguyen
+
+Farid Aalam
+
+Georden Grabuskie
+ 
 John Margis
 
 ##How to Execute:
