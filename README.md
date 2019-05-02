@@ -1,4 +1,4 @@
-##Group Members : 
+##Group Members : ##
 
 Anette Ulrichsen
 
@@ -7,10 +7,10 @@ Brandon Nguyen
 Farid Aalam
 
 Georden Grabuskie
- 
+
 John Margis
 
-##How to Execute:
+##How to Execute:##
 To sign:
 
 ```python signer.py privKey.pem signature.sig input.txt sign```
