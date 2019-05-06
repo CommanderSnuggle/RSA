@@ -29,3 +29,7 @@ privKay.pem = private key
 signature.sig = signature
 input.txt = file that you want signed
 verify = identifier indicating the program to verify 
+
+## Disclaimer:
+
+This is using python 2.7.16
